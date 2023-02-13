@@ -80,6 +80,7 @@ button {
     border-radius: 50px;
     color: #ffffff;
     border: 0;
+    font-family: 'Gilroy-Bold';
 }
 .buttons a {
     padding-top: 15px;
