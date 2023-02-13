@@ -78,7 +78,6 @@ button {
     background: #F25822;
     box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
     border-radius: 50px;
-    text-justify: auto;
     color: #ffffff;
     border: 0;
 }
@@ -86,6 +85,8 @@ button {
     padding-top: 15px;
     width: 90px;
     height: 19px;
+    font-size: 15px;
+    line-height: 18px;
     text-decoration: none;
     color: #AAAAAA;
 }
